@@ -11,6 +11,10 @@
     background: black;
 }
 
+#basic {
+    background: brown;
+}
+
 .font {
     color : white; 
     font-size : 25px; 
