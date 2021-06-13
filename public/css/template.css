@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap");
+
+#home {
+    background-image : url("/img/bg.jpg"); 
+    height : 560px; 
+    width : 1363px; 
+    background-size:cover; 
+}
+
+#bg {
+    background: black;
+}
+
+.font {
+    color : white; 
+    font-size : 25px; 
+    padding : 15px; 
+    text-decoration: none;
+}
+
+.font:hover {
+    color :white; 
+}
+
+.fontmenu {
+    color : white; 
+    font-size : 20px; 
+    text-decoration: none;
+}
+
+.fontmenu:hover {
+    color :white; 
+}
+
+.art {
+    color : white; 
+    margin : 9rem 12rem; 
+    font-size : 60px;  
+}
+
+#card {
+    background: black;
+    border-radius: none;
+    height: 150px;
+    width: 150px;
+    margin-left : 6rem; 
+}
+
+ul {
+    display:grid;
+    list-style-type:none;
+    margin:2rem;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(2, auto);
+}
