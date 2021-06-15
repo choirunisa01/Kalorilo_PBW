@@ -99,3 +99,8 @@ ul {
     height: 150px;
     width: 150px;
 }
+
+#bg2 {
+    background: black;
+    text-decoration: none;
+}

@@ -11,11 +11,10 @@
             <nav style ="padding : 15px;" >
                 <img src="/img/logo.png" width="150" height="70" style= "margin-left :1rem;">
                 <a href="/" class="font"><span style= "margin-left :50rem;">Home</span></a>
-                <a href="/about" class="font"><span >About</span></a>
+                <a href="/about" class="font"><span>About</span></a>
                 <a href="/content" class="font"><span >Content</span></a>
             </nav>
-
-           
+ 
 
             <h1 class ="art"> Don’t Focus On How Much You Eat <br> &emsp; &emsp;Focus On What You Eat</h1>
         </div>
