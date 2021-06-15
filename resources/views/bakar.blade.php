@@ -1,5 +1,5 @@
-@extends('template1')
-@section('title','Bakar')
+@extends('template4')
+@section('title','Kalorilo | Ayo Bakar Kalori')
 
 @section('isi')
 	
