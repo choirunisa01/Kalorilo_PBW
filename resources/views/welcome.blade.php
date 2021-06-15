@@ -8,17 +8,26 @@
 
     <body id="bg">
         <div id="home">
-            <nav style ="padding : 15px;" >
-                <img src="/img/logo.png" width="150" height="70" style= "margin-left :1rem;">
-                <a href="/" class="font"><span style= "margin-left :50rem;">Home</span></a>
-                <a href="/about" class="font"><span>About</span></a>
-                <a href="/content" class="font"><span >Content</span></a>
-            </nav>
- 
+                <nav style ="padding : 15px;" >
+                    <ul id="navigasi">
+                    <img src="/img/logo.png" width="150" height="70" style= "margin-left :1rem;">
+                        <li><a href="/" class="font" style= "margin-left :48rem;">Home</a></li>
+                        <li><a href="/about" class="font">About</a></li>
+                        <li class="dropdown"><a href="#" class="font">Content</a>
+                            <ul class="isi-dropdown">
+                                <li><a href="/kalori" class="font1"><img src="/img/daftar.png" width="30" height="30" style="margin-left : 10px;"/>Daftar Kalori</a></li>
+                                <li><a href="/hitung" class="font1"><img src="/img/hitung.png" width="30" height="30" style="margin-left : 10px;"/>Hitung Kalorimu</a></li>
+                                <li><a href="/bakar" class="font1"><img src="/img/workout.png" width="30" height="30" style="margin-left : 10px;"/>Ayo Bakar Kalori</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+        </br>
+        </br>
 
             <h1 class ="art"> Don’t Focus On How Much You Eat <br> &emsp; &emsp;Focus On What You Eat</h1>
         </div>
-
+<center>
        <div class="mt-5">
             <ul style ="margin : 2rem;">
                 <li>
@@ -50,7 +59,7 @@
 
             </ul>
         </div>
-
+        </center>
     </body>
 
 </html>
