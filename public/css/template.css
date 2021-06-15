@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap");
 
 #home {
-    background-image : url("/img/bg.jpg"); 
-    height : 560px; 
-    width : 1363px; 
-    background-size:cover; 
+    background-image: url("/img/bg.jpg");
+    height: 560px;
+    width: 1363px;
+    background-size: cover;
 }
 
 #bg {
@@ -20,30 +20,30 @@
 }
 
 .font {
-    color : white; 
-    font-size : 25px; 
-    padding : 15px; 
+    color: white;
+    font-size: 25px;
+    padding: 15px;
     text-decoration: none;
 }
 
 .font:hover {
-    color :white; 
+    color: white;
 }
 
 .fontmenu {
-    color : white; 
-    font-size : 20px; 
+    color: white;
+    font-size: 20px;
     text-decoration: none;
 }
 
 .fontmenu:hover {
-    color :white; 
+    color: white;
 }
 
 .art {
-    color : white; 
-    margin : 9rem 12rem; 
-    font-size : 60px;  
+    color: white;
+    margin: 9rem 12rem;
+    font-size: 60px;
 }
 
 #card {
@@ -51,23 +51,24 @@
     border-radius: none;
     height: 150px;
     width: 150px;
-    margin-left : 6rem; 
+    margin-left: 6rem;
 }
 
 ul {
-    display:grid;
-    list-style-type:none;
+    display: grid;
+    list-style-type: none;
     grid-template-columns: repeat(3, auto);
     grid-template-rows: repeat(2, auto);
 }
 
 
 #body-row {
-    margin-left:0;
-    margin-right:0;
+    margin-left: 0;
+    margin-right: 0;
 }
+
 #sidebar-container {
-    min-height: 100vh;   
+    min-height: 100vh;
     background-color: saddlebrown;
     padding: 0;
 }
@@ -75,6 +76,7 @@ ul {
 .sidebar-expanded {
     width: 200px;
 }
+
 .sidebar-collapsed {
     width: 60px;
 }
@@ -82,12 +84,18 @@ ul {
 #sidebar-container .list-group a {
     height: 90px;
     color: white;
-    font-size : 25px;
-    padding-left : 2.5rem;
+    font-size: 25px;
+    padding-left: 2.5rem;
     padding-top: 1rem;
 }
 
-.list-group-item:hover{
-    background:black;
+.list-group-item:hover {
+    background: black;
 }
 
+#ss {
+    background: black;
+    border-radius: none;
+    height: 150px;
+    width: 150px;
+}
