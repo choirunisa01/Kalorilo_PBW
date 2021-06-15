@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap");
+
+#home {
+    background-image: url("/img/bg.jpg");
+    height: 560px;
+    width: 1363px;
+    background-size: cover;
+}
+
+#bg {
+    background: black;
+}
+
+#basic {
+    background: saddlebrown;
+}
+
+.warna {
+    background: saddlebrown;
+}
+
+.font {
+    color: white;
+    font-size: 25px;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.font1 {
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.font:hover {
+    color: white;
+}
+
+.fontmenu {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.fontmenu:hover {
+    color: white;
+}
+
+.art {
+    color: white;
+    margin: 9rem 12rem;
+    font-size: 60px;
+}
+
+#card {
+    background: black;
+    border-radius: none;
+    height: 150px;
+    width: 150px;
+    margin-left: 6rem;
+}
+
+ul {
+    display: grid;
+    list-style-type: none;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(2, auto);
+}
+
+#body-row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#sidebar-container {
+    min-height: 100vh;
+    background-color: saddlebrown;
+    padding: 0;
+}
+
+.sidebar-expanded {
+    width: 200px;
+}
+
+.sidebar-collapsed {
+    width: 60px;
+}
+
+#sidebar-container .list-group a {
+    height: 90px;
+    color: white;
+    font-size: 25px;
+    padding-left: 2.5rem;
+    padding-top: 1rem;
+}
+
+.list-group-item:hover {
+    background: Peru;
+}
+
+#ss {
+    background: black;
+    border-radius: none;
+    height: 150px;
+    width: 150px;
+}
+
+#bg2 {
+    background: black;
+    text-decoration: none;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown:hover .isi-dropdown {
+    display: block;
+}
+
+.isi-dropdown {
+    position: absolute;
+    display: none;
+    z-index: 1;
+    background-color: saddlebrown;
+}
+
+.isi-dropdown a {
+    color: white !important;
+}
+
+.isi-dropdown a:hover {
+    color: white !important;
+    background: black !important;
+}
+
+#navigasi {
+    position: absolute;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+#navigasi a {
+    display: block;
+    padding: 8px 8px;
+    color: #fff;
+}
+
+#navigasi a:hover {
+    background-color: black;
+    color: #fff;
+}
+
+#navigasi li {
+    position: relative;
+    float: left;
+}
+
+#navigasi ul {
+    position: absolute;
+    display: none;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-position: outside;
+}
+
+#navigasi li ul a {
+    width: 12em;
+    height: auto;
+    float: left;
+}
+
+#navigasi li:hover ul {
+    display: block;
+}
+
+#navigasi li:hover ul ul {
+    display: none;
+}
