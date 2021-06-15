@@ -15,6 +15,10 @@
     background: saddlebrown;
 }
 
+.warna {
+    background: saddlebrown;
+}
+
 .font {
     color : white; 
     font-size : 25px; 
@@ -53,7 +57,37 @@
 ul {
     display:grid;
     list-style-type:none;
-    margin:2rem;
     grid-template-columns: repeat(3, auto);
     grid-template-rows: repeat(2, auto);
 }
+
+
+#body-row {
+    margin-left:0;
+    margin-right:0;
+}
+#sidebar-container {
+    min-height: 100vh;   
+    background-color: saddlebrown;
+    padding: 0;
+}
+
+.sidebar-expanded {
+    width: 200px;
+}
+.sidebar-collapsed {
+    width: 60px;
+}
+
+#sidebar-container .list-group a {
+    height: 90px;
+    color: white;
+    font-size : 25px;
+    padding-left : 2.5rem;
+    padding-top: 1rem;
+}
+
+.list-group-item:hover{
+    background:black;
+}
+
