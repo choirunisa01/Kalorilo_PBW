@@ -1,5 +1,5 @@
 @extends('template1')
-@section('title','About')
+@section('title','Kalorilo | About')
 
 @section('isi')
 <div>
