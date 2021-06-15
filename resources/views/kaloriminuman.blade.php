@@ -9,8 +9,8 @@
                 <li>
                     <a href="/kalori" class="fontmenu">
                         <div id="card">
-                            <img src="/img/makanan/nasi.png" width="100" height="100">
-                            <p>Nasi (1 mangkok)&ensp; &ensp; &ensp;204 kalori </p>
+                            <img src="/img/minuman/susu.png" width="100" height="100">
+                            <p>Susu (1 gelas)&ensp; &ensp; &ensp;122 kalori </p>
                         </div>
                     </a>
                 </li>
@@ -18,8 +18,8 @@
                 <li>
                     <a href="#" class="fontmenu">
                         <div id="card">
-                            <img src="/img/makanan/daging.png" width="100" height="100">
-                            <p>Daging (1 porsi) &emsp; 245 kalori </p>
+                        <img src="/img/minuman/kopi.png" width="100" height="100">
+                            <p>Kopi (1 gelas)&ensp; &ensp; &ensp;&ensp;2 kalori </p>
                         </div>
                     </a>
                 </li>    
@@ -27,8 +27,8 @@
                 <li>
                     <a href="#" class="fontmenu">
                         <div id="card">
-                            <img src="/img/makanan/mie.png" width="100" height="100">
-                            <p>Mie Instant (1 mangkok) &emsp; &emsp;340 kalori </p>
+                        <img src="/img/minuman/mangga.png" width="100" height="100">
+                            <p>Jus Mangga (1 gelas)&ensp; &ensp;&emsp; &emsp; &emsp; &ensp; &ensp;107 kalori </p>
                         </div>
                     </a>
                 </li>  
@@ -42,8 +42,8 @@
                 <li>
                     <a href="/kalori" class="fontmenu">
                         <div id="card">
-                            <img src="/img/makanan/cokelat.png" width="100" height="100">
-                            <p>Cokelat (1 batang) &emsp; &emsp;313 kalori </p>
+                        <img src="/img/minuman/jeruk.png" width="100" height="100">
+                            <p>Jus Jeruk (1 gelas)&ensp; &ensp; &emsp; &emsp; &emsp;112 kalori </p>
                         </div>
                     </a>
                 </li>
@@ -51,8 +51,8 @@
                 <li>
                     <a href="#" class="fontmenu">
                         <div id="card">
-                            <img src="/img/makanan/keju.png" width="100" height="100">
-                            <p>Keju (1 mangkok) &emsp; &emsp;455 kalori </p>
+                        <img src="/img/minuman/sirup.png" width="100" height="100">
+                            <p>Sirup (1 gelas)&ensp; &ensp; &ensp;850 kalori </p>
                         </div>
                     </a>
                 </li>    
@@ -60,12 +60,12 @@
                 <li>
                     <a href="#" class="fontmenu">
                         <div id="card">
-                            <img src="/img/makanan/kentang.png" width="100" height="100">
-                            <p>Kentang Goreng (1 mangkok) &emsp; &emsp;222 kalori </p>
+                        <img src="/img/minuman/soda.png" width="100" height="100">
+                            <p>Soda (1 gelas)&ensp; &ensp;&nbsp; &ensp;140 kalori </p>
                         </div>
                     </a>
                 </li> 
-                <br/>   
+                <br/>    
 
             </ul>
         </div>
@@ -75,8 +75,8 @@
                 <li>
                     <a href="/kalori" class="fontmenu">
                         <div id="card">
-                            <img src="/img/makanan/kacang.png" width="100" height="100">
-                            <p>Kacang (1 mangkok) &emsp; &emsp;828 kalori </p>
+                        <img src="/img/minuman/anggur.png" width="100" height="100">
+                            <p>Jus Anggur (1 gelas)&ensp; &ensp;&emsp; &emsp; &emsp; &ensp; &ensp;154 kalori </p>
                         </div>
                     </a>
                 </li>
@@ -84,8 +84,8 @@
                 <li>
                     <a href="#" class="fontmenu">
                         <div id="card">
-                            <img src="/img/makanan/ayam.png" width="100" height="100">
-                            <p>Ayam Goreng (1 porsi) &emsp; &emsp;&nbsp; &emsp;&emsp;781 kalori </p>
+                        <img src="/img/minuman/alpukat.png" width="100" height="100">
+                            <p>Jus Alpukat (1 gelas)&ensp; &ensp;&emsp; &emsp; &emsp; &ensp; &ensp;195 kalori </p>
                         </div>
                     </a>
                 </li>    
@@ -93,8 +93,8 @@
                 <li>
                     <a href="#" class="fontmenu">
                         <div id="card">
-                            <img src="/img/makanan/telur.png" width="100" height="100">
-                            <p>Telur Goreng (1 butir) &emsp; &emsp;&emsp;&ensp;&nbsp;&emsp;89 kalori </p>
+                        <img src="/img/minuman/apel.png" width="100" height="100">
+                            <p>Jus Apel (1 gelas)&ensp; &ensp;&emsp; &emsp; &emsp; &ensp; &ensp;117 kalori </p>
                         </div>
                     </a>
                 </li>    

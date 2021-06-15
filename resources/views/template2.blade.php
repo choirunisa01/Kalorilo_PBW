@@ -18,13 +18,13 @@
             <div id="sidebar-container" class="sidebar-expanded d-none d-md-block">
                 <ul class="list-group">
 
-                    <a href="#" class="warna list-group-item" style = "margin-top : 10rem;">
+                    <a href="/kalori" class="warna list-group-item" style = "margin-top : 10rem;">
                         <div >
                             <span class="menu-collapsed">Makanan</span>
                         </div>
                     </a>
                 
-                    <a href="#" class="warna list-group-item">
+                    <a href="/kaloriminuman" class="warna list-group-item">
                         <div>
                             <span class="menu-collapsed">Minuman</span>
                         </div>

@@ -41,7 +41,7 @@
                 </li>    
 
                 <li>
-                    <a href="#" class="fontmenu">
+                    <a href="/bakar" class="fontmenu">
                         <div id="card">
                             <img src="/img/workout.png" width="120" height="120" style="margin-left : 8px;">
                             <p>Ayo Bakar Kalori </p>

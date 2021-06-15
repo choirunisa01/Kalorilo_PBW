@@ -25,4 +25,12 @@ Route::get('/kalori', function () {
     return view('kalori');
 });
 
+Route::get('/kaloriminuman', function () {
+    return view('kaloriminuman');
+});
+
+Route::get('/bakar', function () {
+    return view('bakar');
+});
+
 
