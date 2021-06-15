@@ -38,14 +38,7 @@
                         </div>
                     </a>
                 </li> 
-                
-                <br/> 
 
-            </ul>
-        </div>
-
-        <div class="mt-5">
-            <ul>
                 <li>
                     <a href="#" class="fontmenu">
                         <div id="ss">
@@ -54,7 +47,14 @@
                         </div>
                     </a>
                 </li>
+                
+                <br/> 
 
+            </ul>
+        </div>
+
+        <div class="mt-5">
+            <ul>
                 <li>
                     <a href="#" class="fontmenu">
                         <div id="ss">
@@ -72,6 +72,25 @@
                         </div>
                     </a>
                 </li> 
+
+                <li>
+                    <a href="#" class="fontmenu">
+                        <div id="ss">
+                            <img src="/img/olahraga/tenis.png" width="100" height="100">
+                            <p>Tenis Meja/jam&ensp;&nbsp;&emsp;728 kalori </p>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#" class="fontmenu">
+                        <div id="ss">
+                            <img src="/img/olahraga/basket.png" width="100" height="100">
+                            <p>Basket/jam &emsp;728 kalori </p>
+                        </div>
+                    </a>
+                </li>
+
                 <br/> 
                 <br/> 
             </ul>

@@ -136,15 +136,15 @@ li.dropdown {
 }
 
 #navigasi {
-    position: absolute;
-    line-height: 30px;
+    position: relative;
+    line-height: 8px 8px;
     margin: 0;
     padding: 0;
 }
 
 #navigasi a {
     display: block;
-    padding: 8px 8px;
+    padding: 8px;
     color: #fff;
 }
 
@@ -154,7 +154,7 @@ li.dropdown {
 }
 
 #navigasi li {
-    position: ab;
+    position: relative;
     float: left;
 }
 
