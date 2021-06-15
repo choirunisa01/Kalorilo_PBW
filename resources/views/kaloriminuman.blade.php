@@ -1,34 +1,38 @@
-@extends('template2')
-@section('title','Daftar Kalori')
+@extends('template3')
+@section('title','Kalorilo | Daftar Kalori Minuman')
 
 @section('isi')
 
+<center>
 <div style="color: white;">
 <div class="mt-5">
             <ul style ="margin : 2rem;">
                 <li>
-                    <a href="/kalori" class="fontmenu">
-                        <div id="card">
+                    <a href="/kaloriminuman" class="fontmenu">
+                        <div>
                             <img src="/img/minuman/susu.png" width="100" height="100">
-                            <p>Susu (1 gelas)&ensp; &ensp; &ensp;122 kalori </p>
+                            <p>Susu (1 gelas)</p>
+                            <p>&nbsp;122 kalori</p>
                         </div>
                     </a>
                 </li>
 
                 <li>
-                    <a href="#" class="fontmenu">
-                        <div id="card">
-                        <img src="/img/minuman/kopi.png" width="100" height="100">
-                            <p>Kopi (1 gelas)&ensp; &ensp; &ensp;&ensp;2 kalori </p>
+                    <a href="/kaloriminuman" class="fontmenu">
+                        <div>
+                            <img src="/img/minuman/kopi.png" width="100" height="100">
+                            <p>Kopi (1 gelas)</p>
+                            <p>&nbsp;2 kalori</p>
                         </div>
                     </a>
                 </li>    
 
                 <li>
-                    <a href="#" class="fontmenu">
-                        <div id="card">
-                        <img src="/img/minuman/mangga.png" width="100" height="100">
-                            <p>Jus Mangga (1 gelas)&ensp; &ensp;&emsp; &emsp; &emsp; &ensp; &ensp;107 kalori </p>
+                    <a href="/kaloriminuman" class="fontmenu">
+                        <div>
+                            <img src="/img/minuman/mangga.png" width="100" height="100">
+                            <p>Jus Mangga (1 gelas)</p>
+                            <p>&nbsp;107 kalori</p>
                         </div>
                     </a>
                 </li>  
@@ -40,28 +44,31 @@
         <div class="mt-5">
             <ul style ="margin : 2rem;">
                 <li>
-                    <a href="/kalori" class="fontmenu">
-                        <div id="card">
-                        <img src="/img/minuman/jeruk.png" width="100" height="100">
-                            <p>Jus Jeruk (1 gelas)&ensp; &ensp; &emsp; &emsp; &emsp;112 kalori </p>
+                    <a href="/kaloriminuman" class="fontmenu">
+                        <div>
+                            <img src="/img/minuman/jeruk.png" width="100" height="100">
+                            <p>Jus Jeruk (1 gelas)</p>
+                            <p>&nbsp;112 kalori</p>
                         </div>
                     </a>
                 </li>
 
                 <li>
-                    <a href="#" class="fontmenu">
-                        <div id="card">
-                        <img src="/img/minuman/sirup.png" width="100" height="100">
-                            <p>Sirup (1 gelas)&ensp; &ensp; &ensp;850 kalori </p>
+                    <a href="/kaloriminuman" class="fontmenu">
+                        <div>
+                            <img src="/img/minuman/sirup.png" width="100" height="100">
+                            <p>Sirup (1 gelas)</p>
+                            <p>&nbsp;850 kalori</p>
                         </div>
                     </a>
                 </li>    
 
                 <li>
-                    <a href="#" class="fontmenu">
-                        <div id="card">
-                        <img src="/img/minuman/soda.png" width="100" height="100">
-                            <p>Soda (1 gelas)&ensp; &ensp;&nbsp; &ensp;140 kalori </p>
+                    <a href="/kaloriminuman" class="fontmenu">
+                        <div>
+                            <img src="/img/minuman/soda.png" width="100" height="100">
+                            <p>Soda (1 gelas)</p>
+                            <p>&nbsp;140 kalori</p>
                         </div>
                     </a>
                 </li> 
@@ -73,28 +80,31 @@
         <div class="mt-5">
             <ul style ="margin : 2rem;">
                 <li>
-                    <a href="/kalori" class="fontmenu">
-                        <div id="card">
-                        <img src="/img/minuman/anggur.png" width="100" height="100">
-                            <p>Jus Anggur (1 gelas)&ensp; &ensp;&emsp; &emsp; &emsp; &ensp; &ensp;154 kalori </p>
+                    <a href="/kaloriminuman" class="fontmenu">
+                        <div>
+                            <img src="/img/minuman/anggur.png" width="100" height="100">
+                            <p>Jus Anggur (1 gelas)</p>
+                            <p>&nbsp;154 kalori</p>
                         </div>
                     </a>
                 </li>
 
                 <li>
-                    <a href="#" class="fontmenu">
-                        <div id="card">
-                        <img src="/img/minuman/alpukat.png" width="100" height="100">
-                            <p>Jus Alpukat (1 gelas)&ensp; &ensp;&emsp; &emsp; &emsp; &ensp; &ensp;195 kalori </p>
+                    <a href="/kaloriminuman" class="fontmenu">
+                        <div>
+                            <img src="/img/minuman/alpukat.png" width="100" height="100">
+                            <p>Jus Alpukat (1 gelas)</p>
+                            <p>&nbsp;195 kalori</p>
                         </div>
                     </a>
                 </li>    
 
                 <li>
-                    <a href="#" class="fontmenu">
-                        <div id="card">
-                        <img src="/img/minuman/apel.png" width="100" height="100">
-                            <p>Jus Apel (1 gelas)&ensp; &ensp;&emsp; &emsp; &emsp; &ensp; &ensp;117 kalori </p>
+                    <a href="/kaloriminuman" class="fontmenu">
+                        <div>
+                            <img src="/img/minuman/apel.png" width="100" height="100">
+                            <p>Jus Apel (1 gelas)</p>
+                            <p>&nbsp;117 kalori</p>
                         </div>
                     </a>
                 </li>    
@@ -103,4 +113,6 @@
         </div>
 
 </div>
+</center>
+
 @endsection
