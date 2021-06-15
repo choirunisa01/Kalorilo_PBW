@@ -11,7 +11,7 @@
             <nav style ="padding : 15px;" >
                 <img src="/img/logo2.png" width="150" height="70" style= "margin-left :1rem;">
                 <a href="/" class="font" style= "margin-left :50rem;">Home</a>
-                <a href="/about" class="font">About</a>
+                <a href="/about" class="font" id="bg">About</a>
                 <a href="#" class="font">Content <i class="fas fa-caret-down"></i></a>
             </nav>
         </div>
