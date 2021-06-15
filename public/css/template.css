@@ -90,7 +90,7 @@ ul {
 }
 
 .list-group-item:hover {
-    background: black;
+    background: Peru;
 }
 
 #ss {
@@ -103,4 +103,9 @@ ul {
 #bg2 {
     background: black;
     text-decoration: none;
+}
+
+#bg3 {
+    background: black;
+    border-radius: 10px;
 }
