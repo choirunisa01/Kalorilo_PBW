@@ -21,7 +21,7 @@
         </div>
 
        <div class="mt-5">
-            <ul>
+            <ul style ="margin : 2rem;">
                 <li>
                     <a href="/kalori" class="fontmenu">
                         <div id="card">
@@ -32,7 +32,7 @@
                 </li>
 
                 <li>
-                    <a href="/hitung" class="fontmenu">
+                    <a href="#" class="fontmenu">
                         <div id="card">
                             <img src="/img/hitung.png" width="120" height="120" style="margin-left : 10px;">
                             <p>Hitung Kalorimu &emsp; &emsp;Hari ini </p>
@@ -41,7 +41,7 @@
                 </li>    
 
                 <li>
-                    <a href="/bakar" class="fontmenu">
+                    <a href="#" class="fontmenu">
                         <div id="card">
                             <img src="/img/workout.png" width="120" height="120" style="margin-left : 8px;">
                             <p>Ayo Bakar Kalori </p>
