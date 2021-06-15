@@ -16,7 +16,7 @@
                 </li>
 
                 <li>
-                    <a href="#" class="fontmenu">
+                    <a href="/kalori" class="fontmenu">
                         <div id="card">
                             <img src="/img/makanan/daging.png" width="100" height="100">
                             <p>Daging (1 porsi) &emsp; 245 kalori </p>
@@ -25,7 +25,7 @@
                 </li>    
 
                 <li>
-                    <a href="#" class="fontmenu">
+                    <a href="/kalori" class="fontmenu">
                         <div id="card">
                             <img src="/img/makanan/mie.png" width="100" height="100">
                             <p>Mie Instant (1 mangkok) &emsp; &emsp;340 kalori </p>
@@ -49,7 +49,7 @@
                 </li>
 
                 <li>
-                    <a href="#" class="fontmenu">
+                    <a href="/kalori" class="fontmenu">
                         <div id="card">
                             <img src="/img/makanan/keju.png" width="100" height="100">
                             <p>Keju (1 mangkok) &emsp; &emsp;455 kalori </p>
@@ -58,7 +58,7 @@
                 </li>    
 
                 <li>
-                    <a href="#" class="fontmenu">
+                    <a href="/kalori" class="fontmenu">
                         <div id="card">
                             <img src="/img/makanan/kentang.png" width="100" height="100">
                             <p>Kentang Goreng (1 mangkok) &emsp; &emsp;222 kalori </p>
@@ -82,16 +82,16 @@
                 </li>
 
                 <li>
-                    <a href="#" class="fontmenu">
+                    <a href="/kalori" class="fontmenu">
                         <div id="card">
                             <img src="/img/makanan/ayam.png" width="100" height="100">
-                            <p>Ayam Goreng (1 porsi) &emsp; &emsp;&nbsp; &emsp;&emsp;781 kalori </p>
+                            <p>Ayam Goreng (1 porsi) &emsp; &emsp; &emsp;&emsp;781 kalori </p>
                         </div>
                     </a>
                 </li>    
 
                 <li>
-                    <a href="#" class="fontmenu">
+                    <a href="/kalori" class="fontmenu">
                         <div id="card">
                             <img src="/img/makanan/telur.png" width="100" height="100">
                             <p>Telur Goreng (1 butir) &emsp; &emsp;&emsp;&ensp;&nbsp;&emsp;89 kalori </p>
