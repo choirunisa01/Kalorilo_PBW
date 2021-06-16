@@ -180,3 +180,65 @@ li.dropdown {
 #navigasi li:hover ul ul {
     display: none;
 }
+
+.inputan {
+    outline: none;
+    background: black;
+    padding: 6px 8px;
+    border-radius: 10px;
+    font-size: 16px;
+    border: 1px solid #E39264;
+    height: 35px;
+    width: 280px;
+    color : white;
+   
+}
+
+.labelan {
+    font-family: "Roboto-slab", sans-serif;
+    font-size: 13pt;
+    color: #E39264;
+    margin-top: 15px;
+    
+}
+
+
+#submit-btn {
+    background: black;
+    border: 2px solid #E39264;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    height: 42.3px;
+    margin-top: 3rem;
+    width: 153px;
+}
+
+#submit-btn:hover {
+    box-shadow: 0px 1px 18px saddlebrown;
+}
+
+.garis {
+    width: 1360px;
+     height: 10px;
+     margin-top: 30px;
+     background-color: saddlebrown;
+}
+
+.font2 {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    margin-top : 2rem;
+}
+
+.oval {
+    width: 180px;
+     height: 50px;
+     border-radius: 30px;
+     background-color: saddlebrown;
+     color : white; 
+     font-size : 25px;
+    margin-top : 10px;
+}

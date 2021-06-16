@@ -40,7 +40,7 @@
                 </li>
 
                 <li>
-                    <a href="#" class="fontmenu">
+                    <a href="/hitung" class="fontmenu">
                         <div id="card">
                             <img src="/img/hitung.png" width="120" height="120" style="margin-left : 10px;">
                             <p>Hitung Kalorimu &emsp; &emsp;Hari ini </p>
