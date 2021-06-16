@@ -32,5 +32,13 @@ Route::get('/kaloriminuman', function () {
 Route::get('/bakar', function () {
     return view('bakar');
 });
+		
+Route::get('/hitung', function () {
+    return view('hitung');
+});
+
+Route::get('/hasil', function () {
+    return view('hasil');
+});
 
 
