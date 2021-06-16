@@ -9,16 +9,38 @@
     </div>      
 </center>
 
+<div>
+    <ul>
+    @foreach($hitung_kalori as $kalori)
+        <li style="margin-left : 10rem; margin-top: 2rem;">
+            <p class="hasil">{{ $kalori->menu }}</p>
+        </li>
+
+        <li style="margin-top: 2rem;">
+            <p class="hasil">{{ $kalori->satuan }}</p>
+        </li>
+        
+        <li style="margin-top: 2rem;">
+            <p class="hasil">{{ $kalori->jumlah }}</p>
+        </li>
+   
+        <br>
+        <br>
+
+    @endforeach
+    </ul>    
+</div>
 
 <div>
     <h1 class="garis"></h1>
     <center>
         <p class="font2" > Total kalori yang sudah kamu makan hari ini yaitu : </p>
 
-       
         <img src="/img/kal.png" width="60" height="60" />
-        <p class="oval"> Kalori</p>
+
+        <p class="oval">820 Kalori</p>
            
+        <p class="font3">*Hasil tersebut merupakan nilai perkiraan, bukan nilai mutlak</p>
     </center>
 
 </div>
