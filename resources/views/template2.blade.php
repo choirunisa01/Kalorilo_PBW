@@ -28,7 +28,7 @@
             <div id="sidebar-container" class="sidebar-expanded d-none d-md-block">
                 <ul class="list-group">
 
-                    <a href="/kalori" id="bg2" style = "margin-top : 10rem;">
+                    <a href="/kalori" id="bg3" style = "margin-top : 10rem;">
                         <div>
                             <span class="menu-collapsed">Makanan</span>
                         </div>
