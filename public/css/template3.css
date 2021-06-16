@@ -109,6 +109,12 @@ ul {
 #bg2 {
     background: black;
     text-decoration: none;
+    border-radius: 5px;
+}
+
+#bg3 {
+    background: black;
+    text-decoration: none;
 }
 
 li.dropdown {
@@ -132,7 +138,7 @@ li.dropdown {
 
 .isi-dropdown a:hover {
     color: white !important;
-    background: black !important;
+    background: peru !important;
 }
 
 #navigasi {
@@ -144,13 +150,14 @@ li.dropdown {
 
 #navigasi a {
     display: block;
-    padding: 8px;
+    padding: 16px;
     color: #fff;
 }
 
 #navigasi a:hover {
-    background-color: black;
+    background-color: peru;
     color: #fff;
+    border-radius: 5px;
 }
 
 #navigasi li {
@@ -190,8 +197,8 @@ li.dropdown {
     border: 1px solid #E39264;
     height: 35px;
     width: 280px;
-    color : white;
-   
+    color: white;
+
 }
 
 .labelan {
@@ -199,7 +206,7 @@ li.dropdown {
     font-size: 13pt;
     color: #E39264;
     margin-top: 15px;
-    
+
 }
 
 
@@ -221,24 +228,24 @@ li.dropdown {
 
 .garis {
     width: 1360px;
-     height: 10px;
-     margin-top: 30px;
-     background-color: saddlebrown;
+    height: 10px;
+    margin-top: 30px;
+    background-color: saddlebrown;
 }
 
 .font2 {
     color: white;
     font-size: 25px;
     text-decoration: none;
-    margin-top : 2rem;
+    margin-top: 2rem;
 }
 
 .oval {
     width: 180px;
-     height: 50px;
-     border-radius: 30px;
-     background-color: saddlebrown;
-     color : white; 
-     font-size : 25px;
-    margin-top : 10px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: saddlebrown;
+    color: white;
+    font-size: 25px;
+    margin-top: 10px;
 }
