@@ -37,8 +37,6 @@ Route::get('/hitung', function () {
     return view('hitung');
 });
 
-Route::get('/hasil', function () {
-    return view('hasil');
-});
+Route::get('/hasil', 'KaloriController@index');
 
-
+Route::post('/hasil/tambah', 'KaloriController@tambah');
