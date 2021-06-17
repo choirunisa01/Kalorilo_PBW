@@ -34,7 +34,7 @@
                         </div>
                     </a>
                 
-                    <a href="/kaloriminuman" id="bg2">
+                    <a href="/kaloriminuman" id="bg3">
                         <div>
                             <span class="menu-collapsed">Minuman</span>
                         </div>
